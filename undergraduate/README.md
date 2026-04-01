@@ -1,5 +1,5 @@
 Papaya Tree
-[Link](https://example.com](https://papaya-tree.itch.io/the-papaya-tree?secret=o36sgrPmjy0y4Cgk09JzUSumR5U))
+[Link](https://example.com](https://papaya-tree.itch.io/the-papaya-tree?secret=o36sgrPmjy0y4Cgk09JzUSumR5U)
 
 Flashflow
 [Link](https://github.com/jasonkwan86/flashflow)
